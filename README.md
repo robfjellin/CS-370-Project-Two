@@ -1,6 +1,6 @@
 # CS-370-Project-Two
 
-## What computer scientsists do and why it matters
+## What computer scientists do and why it matters
 Computer scientists are problem solvers who can design programmed solutions to real world problems. Computer scientists in addition to write code, analyze problems, design algorithms, and create systems that can be applied across every field. The work that computer scientists do matters because of how integrated technology has become in modern day society. Whether its the GPS in your phone or Smartwatch tracking your calories burned throughout a workout, computer scientists have been building this technological world that is invisible to most users. A lot of tedious tasks have been tackled by both small and big tools developed by computer scientists.
 
 ## Approaching a problem as a computer scientist
